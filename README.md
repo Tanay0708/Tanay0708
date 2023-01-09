@@ -10,7 +10,7 @@ A Passionate Full Stack Developer.
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Tanay](http://tanay0708.github.io/)
 * ✉️  You can contact me at [123vyast@gmail.com](mailto:123vyast@gmail.com)
-* 🚀  I'm currently working on [Resume](http://drive.google.com/file/d/1JggmDqb_Iy1qXvvjhzJMLeAQNB7HeE09/view?usp=share_link)
+* 🚀  Know about me [Resume](http://drive.google.com/file/d/1JggmDqb_Iy1qXvvjhzJMLeAQNB7HeE09/view?usp=share_link)
 * 🧠  I'm learning React
 
 ### Skills
